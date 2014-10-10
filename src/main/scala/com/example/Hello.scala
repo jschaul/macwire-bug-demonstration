@@ -11,7 +11,7 @@ object MyService extends Service
 trait MacwireRegistry {
 
   /**
-  * some comment what thus service does.
+  * some comment what this service does.
   */
   lazy val service: Service = MyService
 
