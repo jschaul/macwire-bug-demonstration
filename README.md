@@ -1,5 +1,7 @@
 # Bug demonstration
 
+This is a demonstration of [this issue in the macwire library](https://github.com/adamw/macwire/issues/21) related to  [this issue in the scala compiler](https://issues.scala-lang.org/browse/SI-8904)
+
 macwire 0.7.1 and scala 2.11.2 (same issue occurs with scala 2.10.4)
 
 ## compilation works fine as can be seen here:
